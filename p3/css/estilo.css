@@ -14,8 +14,24 @@ html:hover .arania{
     transition: 1s ease-in-out;
 }
 .arania .araniaweb{
-    width: 2px;
+    width: 4px;
     height: 200px;
     margin-left:49px;
     background:rgba(255,255,255,.7);
+}
+
+.arania .cuerpo{
+    width:100px;
+    height:80px;
+    background:#000;
+    position:relative;
+    border-radius:50%;
+}
+.arania .cuerpo .ojo{
+    width:33px;
+    height: 33px;
+    position:absolute;
+    bottom:20px;
+    background:#fff;
+    border-radius:50%;
 }
