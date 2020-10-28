@@ -1,0 +1,21 @@
+html {
+    background:#ff785a;
+}
+html:hover .arania{
+    top:-120%;
+}
+.arania{
+    position:absolute;
+    display: inline-block;
+    top:0;
+    left:30%;
+    animation: swing 2s infinite;
+    transform-origin:top;
+    transition: 1s ease-in-out;
+}
+.arania .araniaweb{
+    width: 2px;
+    height: 200px;
+    margin-left:49px;
+    background:rgba(255,255,255,.7);
+}
