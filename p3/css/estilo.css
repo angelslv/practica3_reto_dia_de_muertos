@@ -35,3 +35,20 @@ html:hover .arania{
     background:#fff;
     border-radius:50%;
 }
+.arania .cuerpo .ojo .izquierdo{
+    left: 15px;
+}
+
+.arania .cuerpo .ojo .derecho{
+    right: 15px;
+}
+.arania .cuerpo .ojo:after{
+    background:#000;
+    width:7px;
+    height:7px;
+    content:'';
+    display:block;
+    margin:55%;
+    border-radius:50%;
+    animation: look 8s infnite;
+}
