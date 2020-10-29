@@ -35,11 +35,11 @@ html:hover .arania{
     background:#fff;
     border-radius:50%;
 }
-.arania .cuerpo .ojo .izquierdo{
+.arania .cuerpo .ojo.izquierdo{
     left: 15px;
 }
 
-.arania .cuerpo .ojo .derecho{
+.arania .cuerpo .ojo.derecho{
     right: 15px;
 }
 .arania .cuerpo .ojo:after{

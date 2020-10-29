@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/estilo.css" type="text/css">
 </head>
 <body>
+    <div class="arania_1">
     <div class="arania">
             <div class="araniaweb"></div>
         <div class="cuerpo">
@@ -27,6 +28,7 @@
             <div class="patas"></div>
             <div class="patas"></div>
         </div>
+    </div>
     </div>
 </body>
 </html>
